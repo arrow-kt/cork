@@ -1,0 +1,10 @@
+name: cork
+description: A library for Typed Functional Programming in Dart
+version: 0.0.1
+author: TBC
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+dev_dependencies:
+  test: ^1.0.0
